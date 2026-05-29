@@ -8,6 +8,8 @@
 > Projeto da disciplina **Estrutura de Dados Lineares** — 2° Grau de Qualificação  
 > Profa. Monique Soares
 
+> Alunos: Allan Henrique e Luana Larissa
+
 ## Descrição
 
 Simulador de tráfego de rede em C que gerencia o fluxo de pacotes de dados entre diferentes "nós". O sistema prioriza mensagens urgentes (Voz/Vídeo) e mantém um histórico e cache de endereços acessados para otimizar buscas.
