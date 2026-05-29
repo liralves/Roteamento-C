@@ -209,4 +209,7 @@ A variante `hash = hash * 31 + c` distribui bem strings de IPs (que têm padrõe
 ### Modularização
 Cada TAD é completamente encapsulado em seu par `.h`/`.c`. O `simulator.c` atua como camada de integração, e o `main.c` apenas inicializa e delega — facilitando testes unitários futuros por TAD.
 
+### Desenvolvedores 
+Luana Lira & Allan Henrique
+
 
